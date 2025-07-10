@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "pyresolver"
+name = "ai-pyresolver"
 version = "0.1.0"
 description = "AI-powered Python dependency resolver"
 readme = "README.md"

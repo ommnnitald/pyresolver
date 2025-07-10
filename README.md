@@ -203,11 +203,11 @@ python demo.py
 
 ## 📚 Documentation
 
-- **[Installation Guide](docs/installation.md)** - Detailed setup instructions
-- **[API Reference](docs/api.md)** - Complete API documentation
-- **[CLI Guide](docs/cli.md)** - Command-line interface reference
-- **[Integration Guide](docs/integration.md)** - Tool integration examples
-- **[Contributing](docs/contributing.md)** - How to contribute
+- **[Installation Guide](#-quick-start)** - Detailed setup instructions
+- **[API Reference](#-programmatic-api)** - Complete API documentation
+- **[CLI Guide](#-advanced-usage)** - Command-line interface reference
+- **[Integration Guide](#-integration)** - Tool integration examples
+- **[Contributing](#-contributing)** - How to contribute
 
 ## 🌟 Community
 
